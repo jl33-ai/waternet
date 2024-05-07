@@ -2,6 +2,7 @@
 proj_assets
 caches
 scane
+assets
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
